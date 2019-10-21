@@ -1,0 +1,2 @@
+# smartinittest
+prvi projekat
